@@ -1,0 +1,4 @@
+﻿  PK4.cpp
+C:\Users\Edamski\source\repos\PK4\PK4\PK4.cpp(40,29): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Edamski\source\repos\PK4\PK4\PK4.cpp(49,17): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  PK4.vcxproj -> C:\Users\Edamski\source\repos\PK4\Debug\PK4.exe
